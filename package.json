@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "4.12.x",
+    "cfenv": "1.0.x"
+  },
   "devDependencies": {
     "browser-sync": "^2.7.10",
     "jspm": "^0.15.7"
