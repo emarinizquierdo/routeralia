@@ -1,0 +1,23 @@
+{
+  "name": "routeralia",
+  "version": "0.0.0",
+  "homepage": "https://github.com/emarinizquierdo/routeralia",
+  "authors": [
+    "Edu <e.marin.izquierdo@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
